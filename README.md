@@ -6,19 +6,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
@@ -26,7 +13,7 @@
 
 <br><br>
 
-- :school: Soy `Junior` egresada de [SoyHenry]([http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/](https://www.soyhenry.com/))
+- :school: Soy `Junior` egresada de [SoyHenry]([[http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/](https://www.soyhenry.com/)](https://www.soyhenry.com/))
 - :technologist: Me gusta aplicar nuevos `conocimientos` en mis proyectos.
 - :computer: Tengo conocimientos en: `html`, `css`, `NestJs`, `NodeJS`, `React`, `Typesscript`, `Javascript`, `Bootstrap`, `MongoDB`, `PostgreSQL`, `Cloudinary` y `Express`.
 - :student: Actualmente estudio `ingenieria industrial` y quiero hacer una `tecnicatura en programacion`.
