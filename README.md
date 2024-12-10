@@ -3,10 +3,6 @@
     <!-- GIF usando un enlace directo -->
     <img src="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif" width="480" height="317" alt="GIF de Giphy">
 </p>
-<p align="center">
-    <!-- Enlace hacia el GIF en Giphy -->
-    <a href="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm" target="_blank">via GIPHY</a>
-</p>
 
 
 <br>
