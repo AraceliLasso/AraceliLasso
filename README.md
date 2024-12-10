@@ -16,6 +16,6 @@
 - :technologist: Me gusta aplicar nuevos `conocimientos` en mis proyectos.
 - :computer: Tengo conocimientos en: `html`, `css`, `NestJs`, `NodeJS`, `React`, `Typesscript`, `Javascript`, `Bootstrap`, `MongoDB`, `PostgreSQL`, `Cloudinary` y `Express`.
 - :student: Actualmente estudio `ingenieria industrial` y, a futuro, quiero hacer una `tecnicatura en programacion`.
-- :nerd_face: Siempre quiero `aprender`nuevas tecnologias y herramientas
+- :nerd_face: Siempre quiero `aprender` nuevas tecnologias y herramientas
 - :thinking: Actualmente busco `trabajo` como full stack web developer o backend developer.
 <br>
