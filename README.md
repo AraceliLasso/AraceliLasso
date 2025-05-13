@@ -14,8 +14,8 @@
 
 - :school: Soy `Developer FullStack` egresada de [SoyHenry]([[http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/](https://www.soyhenry.com/)](https://www.soyhenry.com/))
 - :technologist: Me gusta aplicar nuevos `conocimientos` en mis proyectos.
-- :computer: Tengo conocimientos en: `html`, `css`, `NestJs`, `NodeJS`, `React`, `Typesscript`, `Javascript`, `Bootstrap`, `MongoDB`, `PostgreSQL`, `Cloudinary` y `Express`.
-- :student: Actualmente estudio `ingenieria industrial` y, a futuro, quiero hacer una `tecnicatura en programacion`.
+- :computer: Tengo conocimientos en: `Typesscript`, `Javascript`, `PostgreSQL`, `NestJs`, `NodeJS`, `React`, `Express`, `Cloudinary`, `Bootstrap`, `MongoDB`, `html` y `css`.
+- :student: Actualmente estudio `ingenieria industrial`
 - :nerd_face: Siempre quiero `aprender` nuevas tecnologias y herramientas
 - :thinking: Actualmente busco `trabajo` como full stack web developer o backend developer.
 <br>
