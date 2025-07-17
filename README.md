@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! , Soy Araceli Lasso! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <!-- GIF usando un enlace directo -->
-    <img src="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif" width="480" height="317" alt="GIF de Giphy">
+    <img src="[https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVucHRnajRqZWg2bWdkeWYwN294NGd5c2xod2tpZmdhOWtpYWpuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="480" height="317" alt="GIF de Giphy">
 </p>
 <br>
 
