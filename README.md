@@ -17,5 +17,5 @@
 - :student: Actualmente estudio `ingenieria industrial`
 - :nerd_face: Siempre quiero `aprender` nuevas tecnologias y herramientas
 - 🐶: Tengo dos perros ❤️
-- :thinking: Actualmente busco `trabajo` como full stack web developer o backend developer.
+- :thinking: Actualmente trabajo en 🌟​Amalgama✨​✨​​.
 <br>
