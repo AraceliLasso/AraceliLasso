@@ -4,7 +4,6 @@
     <img src="https://media.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="480" height="317" alt="GIF de Giphy">
 </p>
 <br>
-https://media3.giphy.com/media/gX8F8kMRTx44M/giphy.gif
 	
 ## Sobre mi
 
