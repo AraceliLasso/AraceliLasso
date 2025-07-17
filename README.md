@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! , Soy Araceli Lasso! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <!-- GIF usando un enlace directo -->
-    <img src="[https://media.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="480" height="317" alt="GIF de Giphy">
+    <img src="https://media.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif" width="480" height="317" alt="GIF de Giphy">
 </p>
 <br>
-
+https://media3.giphy.com/media/gX8F8kMRTx44M/giphy.gif
 	
 ## Sobre mi
 
